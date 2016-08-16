@@ -1,3 +1,5 @@
 # SimpleStikyTitle
 简单吸附悬停效果
-效果图后期附上
+
+
+![](https://github.com/hxkdidi/SimpleStikyTitle/blob/master/1.gif)
